@@ -1,4 +1,4 @@
-The Project Gutenberg EBook of The History of The Decline and Fall of the
+﻿The Project Gutenberg EBook of The History of The Decline and Fall of the
 Roman Empire, by Edward Gibbon
 
 This eBook is for the use of anyone anywhere at no cost and with
@@ -16,10 +16,11 @@ Commentator: H. H. Milman
 
 Posting Date: June 7, 2008 [EBook #731]
 Release Date: November, 1996
+Last Updated: May 11, 2018
+
 
 Language: English
 
-Character set encoding: ASCII
 
 *** START OF THIS PROJECT GUTENBERG EBOOK DECLINE OF THE ROMAN EMPIRE ***
 
@@ -130,7 +131,7 @@ In imitation of his classical models, Gibbon places Rome as the cardinal
 point from which his inquiries diverge, and to which they bear constant
 reference; yet how immeasurable the space over which those inquiries
 range; how complicated, how confused, how apparently inextricable the
-ca-\nuses which tend to the decline of the Roman empire! how countless
+causes which tend to the decline of the Roman empire! how countless
 the nations which swarm forth, in mingling and indistinct hordes,
 constantly changing the geographical limits--incessantly confounding the
 natural boundaries! At first sight, the whole period, the whole state
@@ -380,7 +381,7 @@ first origin and development. When it had once received its impulse
 from above--when it had once been infused into the minds of its
 first teachers--when it had gained full possession of the reason and
 affections of the favored few--it might be--and to the Protestant, the
-rationa Christian, it is impossible to define when it really was--left
+rational Christian, it is impossible to define when it really was--left
 to make its way by its native force, under the ordinary secret agencies
 of all-ruling Providence. The main question, the divine origin of the
 religion, was dexterously eluded, or speciously conceded by Gibbon;
@@ -608,7 +609,7 @@ will comprehend the invasion of Italy by the Lombards; the conquest
 of the Asiatic and African provinces by the Arabs, who embraced the
 religion of Mahomet; the revolt of the Roman people against the feeble
 princes of Constantinople; and the elevation of Charlemagne, who, in the
-year eight hundred, established the second, or German Empire of the West
+year eight hundred, established the second, or German Empire of the West.
 
 III. The last and longest of these periods includes about six centuries
 and a half; from the revival of the Western Empire, till the taking of
@@ -2132,7 +2133,7 @@ zea, and other sorts, grew in abundance; the wheat commonly yielded
 thirty for one. Besides the vine and the olive, the almond, the date,
 figs of many kinds, the orange, the pomegranate, and many other fruit
 trees, flourished in the greatest luxuriance. Great quantity of honey
-was collected. The balm-tree, which produced the opobalsamum,a great
+was collected. The balm-tree, which produced the opobalsamum, a great
 object of trade, was probably introduced from Arabia, in the time of
 Solomon. It flourished about Jericho and in Gilead."--Milman's Hist. of
 Jews. i. 177.--M.]
@@ -2707,7 +2708,7 @@ care of the senate to dissolve those dangerous confederacies, which
 taught mankind that, as the Roman arms prevailed by division, they might
 be resisted by union. Those princes, whom the ostentation of gratitude
 or generosity permitted for a while to hold a precarious sceptre, were
-dismissed from their thrones, as soon as they had per formed their
+dismissed from their thrones, as soon as they had performed their
 appointed task of fashioning to the yoke the vanquished nations.
 The free states and cities which had embraced the cause of Rome
 were rewarded with a nominal alliance, and insensibly sunk into real
@@ -3541,7 +3542,7 @@ story of his own campaigns, and by an easy illusion of national vanity,
 the peaceful citizen associated himself to the honors of the triumph.
 All the other quarters of the capital, and all the provinces of
 the empire, were embellished by the same liberal spirit of public
-magnificence, and were filled with amphi theatres, theatres, temples,
+magnificence, and were filled with amphitheatres, theatres, temples,
 porticoes, triumphal arches, baths and aqueducts, all variously
 conducive to the health, the devotion, and the pleasures of the meanest
 citizen. The last mentioned of those edifices deserve our peculiar
@@ -3722,7 +3723,7 @@ stones, or, in some places near the capital, with granite. [87] Such was
 the solid construction of the Roman highways, whose firmness has not
 entirely yielded to the effort of fifteen centuries. They united
 the subjects of the most distant provinces by an easy and familiar
-intercourse; out their primary object had been to facilitate the marches
+intercourse; but their primary object had been to facilitate the marches
 of the legions; nor was any country considered as completely subdued,
 till it had been rendered, in all its parts, pervious to the arms and
 authority of the conqueror. The advantage of receiving the earliest
@@ -4081,7 +4082,7 @@ and their systems, transmitted with blind deference from one generation
 of disciples to another, precluded every generous attempt to exercise
 the powers, or enlarge the limits, of the human mind. The beauties
 of the poets and orators, instead of kindling a fire like their own,
-inspired only cold and servile mitations: or if any ventured to deviate
+inspired only cold and servile imitations: or if any ventured to deviate
 from those models, they deviated at the same time from good sense
 and propriety. On the revival of letters, the youthful vigor of the
 imagination, after a long repose, national emulation, a new religion,
@@ -4514,7 +4515,7 @@ tribunes, [15] were annually invested with their respective ensigns
 of office, and continued to discharge some of their least important
 functions. Those honors still attracted the vain ambition of the Romans;
 and the emperors themselves, though invested for life with the powers of
-the consul ship, frequently aspired to the title of that annual dignity,
+the consulship, frequently aspired to the title of that annual dignity,
 which they condescended to share with the most illustrious of their
 fellow-citizens. [16] In the election of these magistrates, the
 people, during the reign of Augustus, were permitted to expose all
@@ -5043,12 +5044,12 @@ sui les Caesars de Julien, p. 80.]
 As soon as Hadrian's passion was either gratified or disappointed, he
 resolved to deserve the thanks of posterity, by placing the most exalted
 merit on the Roman throne. His discerning eye easily discovered a
-senator about fifty years of age, clameless in all the offices of life;
+senator about fifty years of age, blameless in all the offices of life;
 and a youth of about seventeen, whose riper years opened a fair prospect
 of every virtue: the elder of these was declared the son and successor
 of Hadrian, on condition, however, that he himself should immediately
 adopt the younger. The two Antonines (for it is of them that we are now
-peaking,) governed the Roman world forty-two years, with the same
+speaking,) governed the Roman world forty-two years, with the same
 invariable spirit of wisdom and virtue. Although Pius had two sons, [42]
 he preferred the welfare of Rome to the interest of his family, gave his
 daughter Faustina, in marriage to young Marcus, obtained from the senate
@@ -5247,7 +5248,7 @@ inevitable calamities of human life in the enjoyment of the fleeting
 hour. He was dignified with the appellation of the king's slave; had,
 perhaps, been purchased from obscure parents, in a country which he
 had never known; and was trained up from his infancy in the severe
-discipline of the seraglio. [53] His name, his wealth,his honors, were
+discipline of the seraglio. [53] His name, his wealth, his honors, were
 the gift of a master, who might, without injustice, resume what he had
 bestowed. Rustan's knowledge, if he possessed any, could only serve to
 confirm his habits by prejudices. His language afforded not words for
@@ -5324,14 +5325,14 @@ connected, however, with each other by the general resemblance of
 religion, language, and manners, is productive of the most beneficial
 consequences to the liberty of mankind. A modern tyrant, who should find
 no resistance either in his own breast, or in his people, would soon
-experience a gentle restrain from the example of his equals, the dread
+experience a gentle restraint from the example of his equals, the dread
 of present censure, the advice of his allies, and the apprehension of
 his enemies. The object of his displeasure, escaping from the narrow
 limits of his dominions, would easily obtain, in a happier climate,
 a secure refuge, a new fortune adequate to his merit, the freedom of
 complaint, and perhaps the means of revenge. But the empire of the
 Romans filled the world, and when the empire fell into the hands of a
-single person, he would became a safe and dreary prison for his enemies.
+single person, the world became a safe and dreary prison for his enemies.
 The slave of Imperial despotism, whether he was condemned to drag his
 gilded chain in rome and the senate, or to were out a life of exile on
 the barren rock of Seriphus, or the frozen bank of the Danube, expected
@@ -7945,15 +7946,15 @@ visited their extensive dominions in person, and their progress was
 marked by acts of wisdom and beneficence. The tyranny of Tiberius, Nero,
 and Domitian, who resided almost constantly at Rome, or in the adjacent
 was confined to the senatorial and equestrian orders. [33] But Caracalla
-was the common enemy of mankind. He left capital (and he never returned
-to it) about a year after the murder of Geta. The rest of his reign was
+was the common enemy of mankind. He left the capital (and he never returned
+to it) about a year after the murder of Geta.murder of Geta. The rest of his reign was
 spent in the several provinces of the empire, particularly those of the
-East, and province was by turns the scene of his rapine and cruelty.
-The senators, compelled by fear to attend his capricious motions,were
+East, and every province was by turns the scene of his rapine and cruelty.
+The senators, compelled by fear to attend his capricious motions, were
 obliged to provide daily entertainments at an immense expense, which
 he abandoned with contempt to his guards; and to erect, in every city,
 magnificent palaces and theatres, which he either disdained to visit,
-or ordered immediately thrown down. The most wealthy families ruined
+or ordered immediately thrown down. The most wealthy families were ruined
 by partial fines and confiscations, and the great body of his subjects
 oppressed by ingenious and aggravated taxes. [34] In the midst of
 peace, and upon the slightest provocation, he issued his commands, at
@@ -8150,7 +8151,7 @@ the purple, instead of bestowing it on some distinguished senator, equal
 in birth and dignity to the splendor of the Imperial station. As soon as
 the character of Macrinus was surveyed by the sharp eye of discontent,
 some vices, and many defects, were easily discovered. The choice of his
-ministers was in many instances justly censured, and the dissastified
+ministers was in many instances justly censured, and the
 dissatisfied people, with their usual candor, accused at once his
 indolent tameness and his excessive severity. [44]
 
@@ -8491,7 +8492,7 @@ husband. [59]
 
 [Footnote 56: The invention of a new sauce was liberally rewarded; but
 if it was not relished, the inventor was confined to eat of nothing else
-till he had discoveredanother more agreeable to the Imperial palate
+till he had discovered another more agreeable to the Imperial palate
 Hist. August. p. 111.]
 
 [Footnote 57: He never would eat sea-fish except at a great distance
@@ -8658,7 +8659,7 @@ assembly. Her more prudent sister, Mamaea, declined the useless and
 odious prerogative, and a solemn law was enacted, excluding women
 forever from the senate, and devoting to the infernal gods the head of
 the wretch by whom this sanction should be violated. [66] The substance,
-not the pageantry, of power. was the object of Mamaea's manly ambition.
+not the pageantry, of power was the object of Mamaea's manly ambition.
 She maintained an absolute and lasting empire over the mind of her son,
 and in his affection the mother could not brook a rival. Alexander, with
 her consent, married the daughter of a patrician; but his respect for
@@ -10605,7 +10606,7 @@ watched over the safety and discipline of the army; whilst he prevented
 their dangerous murmurs by maintaining a regular plenty in the camp, and
 by establishing ample magazines of vinegar, bacon, straw, barley, and
 wheat in all the cities of the frontier. [49] But the prosperity of
-Gordian expired with Misitheus, who died of a flux, not with out very
+Gordian expired with Misitheus, who died of a flux, not without very
 strong suspicions of poison. Philip, his successor in the praefecture,
 was an Arab by birth, and consequently, in the earlier part of his life,
 a robber by profession. His rise from so obscure a station to the first
@@ -10795,7 +10796,7 @@ barbarians, who soon discovered the decline of the Roman empire.
 
 
 
-Chapter VIII: State Of Persion And Restoration Of The Monarchy.--Part I.
+Chapter VIII: State Of Persia And Restoration Of The Monarchy.--Part I.
 
      Of The State Of Persia After The Restoration Of The Monarchy
      By Artaxerxes.
@@ -11137,7 +11138,7 @@ contest between Good and Evil.--G.]
 
 
 
-Chapter VIII: State Of Persion And Restoration Of The Monarchy.--Part II.
+Chapter VIII: State Of Persia And Restoration Of The Monarchy.--Part II.
 
 The theology of Zoroaster was darkly comprehended by foreigners, and
 even by the far greater number of his disciples; but the most careless
@@ -12134,7 +12135,7 @@ philosophic minds can seldom refrain from investigating the infancy
 of great nations, our curiosity consumes itself in toilsome and
 disappointed efforts. When Tacitus considered the purity of the German
 blood, and the forbidding aspect of the country, he was disposed to
-pronounce those barbarians Indigence, or natives of the soil. We may
+pronounce those barbarians Indigenae, or natives of the soil. We may
 allow with safety, and perhaps with truth, that ancient Germany was
 not originally peopled by any foreign colonies already formed into
 a political society; [12] but that the name and nation received their
@@ -12930,7 +12931,7 @@ destitute of both those valuable metals, were reduced slowly to acquire,
 by their unassisted strength, the possession of the one as well as
 the other. The face of a German army displayed their poverty of iron.
 Swords, and the longer kind of lances, they could seldom use. Their
-frameoe (as they called them in their own language) were long spears
+frameae (as they called them in their own language) were long spears
 headed with a sharp but narrow iron point, and which, as occasion
 required, they either darted from a distance, or pushed in close onset.
 With this spear, and with a shield, their cavalry was contented.
@@ -13887,7 +13888,7 @@ consulship on the ensuing calends of January.]
 among the small number of good emperors who reigned between Augustus and
 Diocletian.]
 
-This fatal blow humbled, for a very little time, she insolence of the
+This fatal blow humbled, for a very little time, the insolence of the
 legions. They appeared to have patiently expected, and submissively
 obeyed, the decree of the senate which regulated the succession to the
 throne. From a just regard for the memory of Decius, the Imperial title
@@ -14092,7 +14093,7 @@ acquiesced in a sentiment whose simplicity persuades us of its truth.
 confederacy was formed under the name of Franks, by the old inhabitants
 of the Lower Rhine and the Weser. [701] The present circle of Westphalia,
 the Landgraviate of Hesse, and the duchies of Brunswick and Luneburg,
-were the ancient of the Chauci who, in their inaccessible morasses,
+were the ancient seat of the Chauci who, in their inaccessible morasses,
 defied the Roman arms; [71] of the Cherusci, proud of the fame of
 Arminius; of the Catti, formidable by their firm and intrepid infantry;
 and of several other tribes of inferior power and renown. [72] The love
@@ -14185,7 +14186,7 @@ enterprise with which the Franks were actuated. Their rapid devastations
 stretched from the river to the foot of the Pyrenees; nor were they
 stopped by those mountains. Spain, which had never dreaded, was unable
 to resist, the inroads of the Germans. During twelve years, the greatest
-part of the reign of Gallie nus, that opulent country was the theatre of
+part of the reign of Gallienus, that opulent country was the theatre of
 unequal and destructive hostilities. Tarragona, the flourishing capital
 of a peaceful province, was sacked and almost destroyed; [77] and so
 late as the days of Orosius, who wrote in the fifth century, wretched
@@ -14544,10 +14545,10 @@ Gothic army. But it was in numbers alone that they surpassed it. They
 deserted with precipitation their advantageous post, and abandoned the
 town of Chalcedon, most plentifully stored with arms and money, to the
 discretion of the conquerors. Whilst they hesitated whether they
-should prefer the sea or land Europe or Asia, for the scene of their
+should prefer the sea or land, Europe or Asia, for the scene of their
 hostilities, a perfidious fugitive pointed out Nicomedia, [1111] once the
 capital of the kings of Bithynia, as a rich and easy conquest. He guided
-the march which was only sixty miles from the camp of Chalcedon, [112]
+the march, which was only sixty miles from the camp of Chalcedon, [112]
 directed the resistless attack, and partook of the booty; for the Goths
 had learned sufficient policy to reward the traitor whom they detested.
 Nice, Prusa, Apamaea, Cius, [1121] cities that had sometimes rivalled, or
@@ -15517,7 +15518,7 @@ to put on his armor, or to assemble his guards, he mounted on
 horseback, and rode full speed towards the supposed place of the attack.
 Encompassed by his declared or concealed enemies, he soon, amidst the
 nocturnal tumult, received a mortal dart from an uncertain hand. Before
-he expired, a patriotic sentiment using in the mind of Gallienus,
+he expired, a patriotic sentiment rising in the mind of Gallienus,
 induced him to name a deserving successor; and it was his last request,
 that the Imperial ornaments should be delivered to Claudius, who then
 commanded a detached army in the neighborhood of Pavia. The report at
@@ -16565,7 +16566,7 @@ with contempt of the war which I am waging against a woman. They are
 ignorant both of the character and of the power of Zenobia. It is
 impossible to enumerate her warlike preparations, of stones, of arrows,
 and of every species of missile weapons. Every part of the walls is
-provided with two or three balistoe and artificial fires are thrown from
+provided with two or three balistae and artificial fires are thrown from
 her military engines. The fear of punishment has armed her with a
 desperate courage. Yet still I trust in the protecting deities of Rome,
 who have hitherto been favorable to all my undertakings." [70] Doubtful,
@@ -16706,7 +16707,7 @@ The victories of Aurelian were attested by the long train of captives
 who reluctantly attended his triumph, Goths, Vandals, Sarmatians,
 Alemanni, Franks, Gauls, Syrians, and Egyptians. Each people was
 distinguished by its peculiar inscription, and the title of Amazons was
-bestowed on ten martial heroines of the Gothie nation who had been taken
+bestowed on ten martial heroines of the Gothic nation who had been taken
 in arms. [78] But every eye, disregarding the crowd of captives, was
 fixed on the emperor Tetricus and the queen of the East. The former,
 as well as his son, whom he had created Augustus, was dressed in Gallic
@@ -16998,8 +16999,7 @@ the Imperial purple! None of those whose guilt or misfortune have
 contributed to our loss, shall ever reign over us." [1] The Roman
 senators heard, without surprise, that another emperor had been
 assassinated in his camp; they secretly rejoiced in the fall of
-Aurelian; and, besides the recent notoriety of the facts, constantly
-draws his materials from the Journals of the Senate, and the but the
+Aurelian; but the
 modest and dutiful address of the legions, when it was communicated in
 full assembly by the consul, diffused the most pleasing astonishment.
 Such honors as fear and perhaps esteem could extort, they liberally
@@ -17227,7 +17227,7 @@ soldier gave the senator had already given.]
 clear, both Casaubon and Salmasius wish to correct it.]
 
 Circular epistles were sent, without delay, to all the principal cities
-of the empire, Treves, Milan, Aquileia, Thessalo nica, Corinth, Athens,
+of the empire, Treves, Milan, Aquileia, Thessalonica, Corinth, Athens,
 Antioch, Alexandria, and Carthage, to claim their obedience, and to
 inform them of the happy revolution, which had restored the Roman senate
 to its ancient dignity. Two of these epistles are still extant.
@@ -17762,7 +17762,7 @@ that of the Rhine. They easily escaped through the Bosphorus and
 the Hellespont, and cruising along the Mediterranean, indulged
 their appetite for revenge and plunder by frequent descents on the
 unsuspecting shores of Asia, Greece, and Africa. The opulent city of
-Syracuse, in whose port the natives of Athens and Carthage had formerly
+Syracuse, in whose port the navies of Athens and Carthage had formerly
 been sunk, was sacked by a handful of barbarians, who massacred the
 greatest part of the trembling inhabitants. From the Island of Sicily,
 the Franks proceeded to the columns of Hercules, trusted themselves to
@@ -17823,7 +17823,7 @@ victory with his accustomed moderation, and spared the fortune, as well
 as the lives of their innocent families. [54]
 
 [Footnote 53: A very surprising instance is recorded of the prowess of
-Procufus. He had taken one hundred Sarmatian virgins. The rest of the
+Proculus. He had taken one hundred Sarmatian virgins. The rest of the
 story he must relate in his own language: "Ex his una necte decem inivi;
 omnes tamen, quod in me erat, mulieres intra dies quindecim reddidi."
 Vopiscus in Hist. August. p. 246.]
@@ -18807,7 +18807,7 @@ miserable; and they experienced at once the complicated tyranny of their
 masters, of the barbarians, of the soldiers, and of the officers of
 the revenue. [19]
 
-[Footnote 16: The general name of Bagaudoe (in the signification of
+[Footnote 16: The general name of Bagaudae (in the signification of
 rebels) continued till the fifth century in Gaul. Some critics derive it
 from a Celtic word Bagad, a tumultuous assembly. Scaliger ad Euseb. Du
 Cange Glossar. (Compare S. Turner, Anglo-Sax. History, i. 214.--M.)]
@@ -19080,7 +19080,7 @@ themselves, retiring to a less laborious scene of action, devolved
 on their adopted sons the defence of the Danube and of the Rhine. The
 vigilant Galerius was never reduced to the necessity of vanquishing
 an army of barbarians on the Roman territory. [35] The brave and active
-Contsantius delivered Gaul from a very furious inroad of the Alemanni;
+Constantius delivered Gaul from a very furious inroad of the Alemanni;
 and his victories of Langres and Vindonissa appear to have been actions
 of considerable danger and merit. As he traversed the open country with
 a feeble guard, he was encompassed on a sudden by the superior multitude
@@ -19107,7 +19107,7 @@ vanquished, was imitated by Diocletian and his associates. The captive
 barbarians, exchanging death for slavery, were distributed among the
 provincials, and assigned to those districts (in Gaul, the territories
 of Amiens, Beauvais, Cambray, Treves, Langres, and Troyes, are
-particularly specified [37] which had been depopulated by the calamities
+particularly specified) [37] which had been depopulated by the calamities
 of war. They were usefully employed as shepherds and husbandmen, but
 were denied the exercise of arms, except when it was found expedient
 to enroll them in the military service. Nor did the emperors refuse the
@@ -19691,7 +19691,7 @@ Note: The Siounikh of the Armenian writers St. Martin i. 142.--M.]
 
 As soon as this difficulty was removed, a solemn peace was concluded and
 ratified between the two nations. The conditions of a treaty so glorious
-to the empire, and so necessary to Persia Persian, may deserve a
+to the empire, and so necessary to Persia, may deserve a
 more peculiar attention, as the history of Rome presents very few
 transactions of a similar nature; most of her wars having either been
 terminated by absolute conquest, or waged against barbarians ignorant of
@@ -19991,7 +19991,7 @@ Galerius the prosecution of the same plan, (c. 26.)]
 
 [Footnote 95: They were old corps stationed in Illyricum; and according
 to the ancient establishment, they each consisted of six thousand men.
-They had acquired much reputation by the use of the plumbatoe, or darts
+They had acquired much reputation by the use of the plumbatae, or darts
 loaded with lead. Each soldier carried five of these, which he darted
 from a considerable distance, with great strength and dexterity. See
 Vegetius, i. 17.]
@@ -20156,12 +20156,12 @@ fundamental law of the constitution. It was his intention, that the two
 elder princes should be distinguished by the use of the diadem, and
 the title of Augusti; that, as affection or esteem might direct their
 choice, they should regularly call to their assistance two subordinate
-colleagues; and that the Coesars, rising in their turn to the first
+colleagues; and that the Caesars, rising in their turn to the first
 rank, should supply an uninterrupted succession of emperors. The empire
 was divided into four parts. The East and Italy were the most honorable,
 the Danube and the Rhine the most laborious stations. The former
 claimed the presence of the Augusti, the latter were intrusted to the
-administration of the Coesars. The strength of the legions was in
+administration of the Caesars. The strength of the legions was in
 the hands of the four partners of sovereignty, and the despair of
 successively vanquishing four formidable rivals might intimidate the
 ambition of an aspiring general. In their civil government, the emperors
@@ -20688,7 +20688,7 @@ the abdication of Diocletian to the menaces of Galerius, and relate the
 particulars of a private conversation between the two princes, in which
 the former discovered as much pusillanimity as the latter displayed
 ingratitude and arrogance. [4] But these obscure anecdotes are
-sufficiently refuted by an impartia view of the character and conduct of
+sufficiently refuted by an impartial view of the character and conduct of
 Diocletian. Whatever might otherwise have been his intentions, if he
 had apprehended any danger from the violence of Galerius, his good sense
 would have instructed him to prevent the ignominious contest; and as
@@ -20721,7 +20721,7 @@ Constantins des Grossen, concurs on this point with Gibbon Beylage, iv.
 --M.]
 
 After the elevation of Constantius and Galerius to the rank of Augusti,
-two new Coesars were required to supply their place, and to complete the
+two new Caesars were required to supply their place, and to complete the
 system of the Imperial government. Diocletian, was sincerely desirous
 of withdrawing himself from the world; he considered Galerius, who had
 married his daughter, as the firmest support of his family and of the
@@ -20802,7 +20802,7 @@ pleasure. The favor of the people and soldiers, who had named him as a
 worthy candidate for the rank of Caesar, served only to exasperate
 the jealousy of Galerius; and though prudence might restrain him from
 exercising any open violence, an absolute monarch is seldom at a loss
-now to execute a sure and secret revenge. [12] Every hour increased the
+how to execute a sure and secret revenge. [12] Every hour increased the
 danger of Constantine, and the anxiety of his father, who, by repeated
 letters, expressed the warmest desire of embracing his son. For some
 time the policy of Galerius supplied him with delays and excuses; but
@@ -22097,7 +22097,7 @@ of the war, and the interview of the two emperors at Milan, which
 was appointed for that purpose, appeared to cement the union of their
 families and interests. [78] In the midst of the public festivity they
 were suddenly obliged to take leave of each other. An inroad of the
-Franks summoned Constantine to the Rhime, and the hostile approach
+Franks summoned Constantine to the Rhine, and the hostile approach
 of the sovereign of Asia demanded the immediate presence of Licinius.
 Maximin had been the secret ally of Maxentius, and without being
 discouraged by his fate, he resolved to try the fortune of a civil war.
@@ -22952,7 +22952,7 @@ and a more obvious source, a full persuasion of the truth of
 Christianity. Watson. Letters Gibbon, i. 9.--M.]
 
 I. We have already described the religious harmony of the ancient world,
-and the facility [104] with which the most different and even hostile
+and the facility [102] with which the most different and even hostile
 nations embraced, or at least respected, each other's superstitions. A
 single people refused to join in the common intercourse of mankind. The
 Jews, who, under the Assyrian and Persian monarchies, had languished
@@ -23889,7 +23889,7 @@ Roman ritual were destined to salute the new calends of January with
 vows of public and private felicity; to indulge the pious remembrance of
 the dead and living; to ascertain the inviolable bounds of property;
 to hail, on the return of spring, the genial powers of fecundity; to
-perpetuate the two memorable areas of Rome, the foundation of the city
+perpetuate the two memorable aeras of Rome, the foundation of the city
 and that of the republic, and to restore, during the humane license
 of the Saturnalia, the primitive equality of mankind. Some idea may
 be conceived of the abhorrence of the Christians for such impious
@@ -24034,7 +24034,7 @@ for temporal happiness, and their ignorance or indifference concerning
 a future life. [55] The important truth of the of the immortality of the
 soul was inculcated with more diligence, as well as success, in India,
 in Assyria, in Egypt, and in Gaul; and since we cannot attribute such
-a difference to the superior knowledge of the barbarians, we we must
+a difference to the superior knowledge of the barbarians, we must
 ascribe it to the influence of an established priesthood, which employed
 the motives of virtue as the instrument of ambition. [56]
 
@@ -24348,7 +24348,7 @@ disciples of Christ, the most dreadful calamities were denounced against
 an unbelieving world. The edification of a new Jerusalem was to advance
 by equal steps with the destruction of the mystic Babylon; and as
 long as the emperors who reigned before Constantine persisted in the
-profession of idolatry, the epithet of babylon was applied to the city
+profession of idolatry, the epithet of Babylon was applied to the city
 and to the empire of Rome. A regular series was prepared of all the
 moral and physical evils which can afflict a flourishing nation;
 intestine discord, and the invasion of the fiercest barbarians from
@@ -24368,7 +24368,7 @@ the philosophy of the Stoics, and the analogy of Nature; and even the
 country, which, from religious motives, had been chosen for the origin
 and principal scene of the conflagration, was the best adapted for that
 purpose by natural and physical causes; by its deep caverns, beds of
-sulphur, and numero is volcanoes, of which those of Aetna, of Vesuvius,
+sulphur, and numerous volcanoes, of which those of Aetna, of Vesuvius,
 and of Lipari, exhibit a very imperfect representation. The calmest
 and most intrepid sceptic could not refuse to acknowledge that the
 destruction of the present system of the world by fire, was in itself
@@ -24884,7 +24884,7 @@ the cheerful flow of unguarded conversation, may employ the leisure of
 a liberal mind. Such amusements, however, were rejected with abhorrence,
 or admitted with the utmost caution, by the severity of the fathers,
 who despised all knowledge that was not useful to salvation, and who
-considered all levity of discours eas a criminal abuse of the gift of
+considered all levity of discourse as a criminal abuse of the gift of
 speech. In our present state of existence the body is so inseparably
 connected with the soul, that it seems to be our interest to taste,
 with innocence and moderation, the enjoyments of which that faithful
@@ -24947,7 +24947,7 @@ their unanimous sentiment, that a first marriage was adequate to all the
 purposes of nature and of society. The sensual connection was refined
 into a resemblance of the mystic union of Christ with his church, and
 was pronounced to be indissoluble either by divorce or by death.
-The practice of second nuptials was branded with the name of a egal
+The practice of second nuptials was branded with the name of a legal
 adultery; and the persons who were guilty of so scandalous an offence
 against Christian purity, were soon excluded from the honors, and even
 from the alms, of the church. [93] Since desire was imputed as a crime,
@@ -25706,7 +25706,7 @@ and the general uses to which their liberality was applied reflected
 honor on the religious society. A decent portion was reserved for the
 maintenance of the bishop and his clergy; a sufficient sum was allotted
 for the expenses of the public worship, of which the feasts of love, the
-agapoe, as they were called, constituted a very pleasing part. The
+agapae, as they were called, constituted a very pleasing part. The
 whole remainder was the sacred patrimony of the poor. According to
 the discretion of the bishop, it was distributed to support widows and
 orphans, the lame, the sick, and the aged of the community; to comfort
@@ -26100,7 +26100,7 @@ Athens. [155] The antiquity of the Greek and Asiatic churches allowed a
 sufficient space of time for their increase and multiplication; and
 even the swarms of Gnostics and other heretics serve to display the
 flourishing condition of the orthodox church, since the appellation of
-hereties has always been applied to the less numerous party. To these
+heretics has always been applied to the less numerous party. To these
 domestic testimonies we may add the confession, the complaints, and the
 apprehensions of the Gentiles themselves. From the writings of Lucian, a
 philosopher who had studied mankind, and who describes their manners in
@@ -26264,7 +26264,7 @@ possessed of an authentic record which attests the state of religion in
 that city about the middle of the third century, and after a peace of
 thirty-eight years. The clergy, at that time, consisted of a bishop,
 forty-six presbyters, seven deacons, as many sub-deacons, forty-two
-acolythes, and fifty readers, exorcists, and porters. The number of
+acolytes, and fifty readers, exorcists, and porters. The number of
 widows, of the infirm, and of the poor, who were maintained by the
 oblations of the faithful, amounted to fifteen hundred. [169] From
 reason, as well as from the analogy of Antioch, we may venture
@@ -26463,7 +26463,7 @@ left without any distinct information, it is impossible to determine,
 and it is difficult even to conjecture, the real numbers of the
 primitive Christians. The most favorable calculation, however, that can
 be deduced from the examples of Antioch and of Rome, will not permit
-us to imagine that more than a themselves under the banner of the cross
+us to imagine that more than a twentieth part of the subjects of the empire had enlisted themselves under the banner of the cross
 before the important conversion of Constantine. But their habits of
 faith, of zeal, and of union, seemed to multiply their numbers; and the
 same causes which contributed to their future increase, served to render
